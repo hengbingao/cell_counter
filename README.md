@@ -1,4 +1,4 @@
-# cell_counter
+# Nuclei Counter
 
 Browser-based tool for batch counting cell nuclei in fluorescence microscopy images (TIFF). No install, no upload — everything runs locally in your browser.
 
