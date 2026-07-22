@@ -7,6 +7,7 @@ Browser-based tool for batch counting cell nuclei in fluorescence microscopy ima
 ## Live tools / 在线工具
 
 - **English:** https://hengbingao.github.io/cell_counter/tools/NucleiCounter_English_version.html
+- **version2：** https://hengbingao.github.io/cell_counter/tools/NucleiCounter_English_version_V2.html
 - **中文:** https://hengbingao.github.io/cell_counter/tools/NucleiCounter_Chinese_version.html
 
 ## Features / 功能
@@ -23,6 +24,9 @@ Browser-based tool for batch counting cell nuclei in fluorescence microscopy ima
 2. Click **Select Folder / Multiple TIFFs** or drag files in. / 点击选择文件夹/多选图片，或直接拖入。
 3. Adjust the sliders while watching the live preview. / 拖动滑块并观察实时预览。
 4. Click **Count All & Download CSV**. / 点击批量计数并下载 CSV。
+5，version2 with calculating nuclei concentration.
+6. version2 for decode muti-samples from secondary files.
+
 
 ## Notes / 说明
 
