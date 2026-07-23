@@ -10,6 +10,8 @@ Browser-based tool for batch counting cell nuclei in fluorescence microscopy ima
 - **version2：** https://hengbingao.github.io/cell_counter/tools/NucleiCounter_English_version_V2.html
 - **中文:** https://hengbingao.github.io/cell_counter/tools/NucleiCounter_Chinese_version.html
 
+add this label, run 在页面上按 Ctrl + F5（Mac 是 Cmd + Shift + R）。
+
 ## Features / 功能
 
 - Batch process a whole folder of TIFFs / 批量处理整个文件夹的 TIFF 图片
